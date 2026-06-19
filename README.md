@@ -1,2 +1,4 @@
-# WEDE-PART-3
-This is the final WEB DEVELOPMENT PROJECT WITH JAVA ADDED
+This is a Website for Bright Tutoring Services which uses HTML ,The Website consist of About,Services,Home and Contact Pages to give out all information needed to view and consult the business.
+On my already existing website that consisted of Html only as per the PART 1 instructions,I added CSS AS per the PART 2 INSTRUCTINS,this is to give life and colour into my website
+Note that in this part I went overboard,I changed the way the pictures were put  becouse I was triying to find a way to make my website more attractive and professional.
+Colour?attractive backgrounds?THATS WHAT I NEED MY WEBSITE TO BE.
